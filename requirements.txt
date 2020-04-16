@@ -1,0 +1,7 @@
+schedule
+python-telegram-bot
+nsepy
+pandas
+numpy
+gspread_pandas
+nsetools
